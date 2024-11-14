@@ -1,0 +1,10 @@
+﻿DATA_BLOCK "InstShutdown"
+{ S7_Optimized_Access := 'TRUE' }
+VERSION : 0.1
+NON_RETAIN
+"Shutdown"
+
+BEGIN
+
+END_DATA_BLOCK
+
